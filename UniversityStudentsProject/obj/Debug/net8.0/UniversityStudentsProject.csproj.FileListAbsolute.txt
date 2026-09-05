@@ -1,0 +1,14 @@
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\bin\Debug\net8.0\UniversityStudentsProject.exe
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\bin\Debug\net8.0\UniversityStudentsProject.deps.json
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\bin\Debug\net8.0\UniversityStudentsProject.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\bin\Debug\net8.0\UniversityStudentsProject.dll
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\bin\Debug\net8.0\UniversityStudentsProject.pdb
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\obj\Debug\net8.0\UniversityStudentsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\obj\Debug\net8.0\UniversityStudentsProject.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\obj\Debug\net8.0\UniversityStudentsProject.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\obj\Debug\net8.0\UniversityStudentsProject.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\obj\Debug\net8.0\UniversityStudentsProject.dll
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\obj\Debug\net8.0\refint\UniversityStudentsProject.dll
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\obj\Debug\net8.0\UniversityStudentsProject.pdb
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\obj\Debug\net8.0\UniversityStudentsProject.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\UniversityStudentsProject\obj\Debug\net8.0\ref\UniversityStudentsProject.dll
